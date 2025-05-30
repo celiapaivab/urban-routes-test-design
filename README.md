@@ -1,4 +1,4 @@
-# Teste de Design – Urban Routes 🛣️
+# Teste de Design – Urban Routes
 
 ![QA](https://img.shields.io/badge/Testes-Manuais-blue)
 ![Ferramenta](https://img.shields.io/badge/Google%20Sheets-Test%20Design-green)
