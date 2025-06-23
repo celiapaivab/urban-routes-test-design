@@ -36,7 +36,8 @@ Este projeto foi realizado como parte do curso de QA, com foco no **design de te
 
 ## 📁 Arquivos do Projeto
 
-- [`📄 Planilha de Design de Testes – Google Sheets`]([https://docs.google.com/spreadsheets/d/SEU-LINK-AQUI](https://docs.google.com/spreadsheets/d/1wpTKwiSrj-i8RU5197V-sC750y3s-kRj/edit?usp=sharing&ouid=117698170295509867083&rtpof=true&sd=true))
+[`📄 Planilha de Design de Testes – Google Sheets`](https://docs.google.com/spreadsheets/d/1wpTKwiSrj-i8RU5197V-sC750y3s-kRj/edit?usp=sharing&ouid=117698170295509867083&rtpof=true&sd=true)
+
 
 ---
 
