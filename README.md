@@ -3,6 +3,8 @@
 ![QA](https://img.shields.io/badge/Testes-Manuais-blue)
 ![Ferramenta](https://img.shields.io/badge/Google%20Sheets-Test%20Design-green)
 ![Tipo de Teste](https://img.shields.io/badge/Testes-Caixa%20Preta-lightgrey)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/celia-bruno)
+
 
 ---
 
